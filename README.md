@@ -1,2 +1,2 @@
 # test-repo
-test repo for me
+few tests
